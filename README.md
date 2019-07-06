@@ -11,6 +11,9 @@ x64 instruction
 	strcmp구현 가능
 	
 Stack
+
 	call func
+
 	local variable save and usage
+	
 	func argv delivery(7th arg ~)
